@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/118888509/236623609-73a8ace8-3a9e-4eb1-9d8f-8625f424890d.png)
 
-##### I'm converting the Date column to datetime data type to move forward:
+##### I'm converting the Date column to datetime data type to move forward :
 
 ![image](https://user-images.githubusercontent.com/118888509/236623717-ff435612-ba74-44c9-8ea4-6b271276aac2.png)
 
